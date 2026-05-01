@@ -18,3 +18,5 @@ I HAVE KNOWLEDGE ABOUT BUT THT COMMAND AND THE NODE JS ABOUT COMMAND I HAVE LEAR
 THANK YOU FOR GIVING ME SUCH OPPURTUNITY
 
 OUTPUT:
+
+<img width="1893" height="937" alt="image" src="https://github.com/user-attachments/assets/0455ff03-57da-4cf8-8f46-410edd01ab94" />
